@@ -1,0 +1,47 @@
+ *{
+    margin: 0%;
+    padding: 0%;
+ }
+
+ body{
+    background-color: rgb(222, 239, 108);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+ }
+
+ #h1{
+   text-align: center;
+ }
+
+ #arith{
+    box-shadow: 1px 5px 5px 10px;
+    width: 900px;
+    height: 300px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+ }
+
+ #one{
+    color: white;
+    background-color: black;
+    box-shadow: 1px 1px 3px 10px;
+ }
+
+ #btn{
+    margin-top: 20px;
+    background-color: rgb(255, 77, 0);
+    box-shadow: 1px 3px 10px;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+ }
+
+ #two{
+   color: white;
+    background-color: rgb(247, 79, 79);
+    box-shadow: 1px 1px 1px 5px;
+ }
